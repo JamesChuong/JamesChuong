@@ -1,4 +1,4 @@
-4th Year Computing Science Student at Simon Fraser University<br><br>Current Intern at WelTel Health
+4th Year Computing Science Student at Simon Fraser University<br><br>Currently a Full-Stack Developer Intern at WelTel Health
 
 
 ### Tech Stack
